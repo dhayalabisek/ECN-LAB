@@ -38,9 +38,9 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
- ![Uploading image.png…]()
- ![Uploading image.png…]()
 
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/e6e616a3-8ba9-4d89-86d6-ebafa84f605d" />
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/33ac10cf-a771-4558-86c1-f6f3e8df6276" />
 
 
 **RESULT:**
